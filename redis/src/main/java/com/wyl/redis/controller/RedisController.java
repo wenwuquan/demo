@@ -1,6 +1,6 @@
-package com.wyl.salaryincrease.study.controller;
+package com.wyl.redis.controller;
 
-import com.wyl.salaryincrease.study.utils.RedisUtil;
+import com.wyl.redis.utils.RedisUtil;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

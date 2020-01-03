@@ -1,4 +1,4 @@
-package com.wyl.salaryincrease.study.config;
+package com.wyl.redis.config;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
